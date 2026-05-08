@@ -29,7 +29,7 @@
 
 ---
 
-<img src= https://github.com/user-attachments/assets/f6dc7664-5578-47af-a76e-921d590aacbb" width="800" alt="Datos académicos">
+<img src= "https://github.com/user-attachments/assets/f6dc7664-5578-47af-a76e-921d590aacbb" width="800" alt="Datos académicos">
 
 ---
 
