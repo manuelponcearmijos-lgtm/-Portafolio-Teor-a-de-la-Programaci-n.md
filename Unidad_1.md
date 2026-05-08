@@ -85,10 +85,63 @@ Los conectores permiten unir proposiciones simples para formar expresiones más 
 <summary><b>🔹 Explicación de tablas de verdad</b></summary>
 <blockquote> 
  Una tabla de verdad es una descripción organizada de todos los posibles valores de verdad que puede adoptar una proposición compuesta, considerando todas las combinaciones posibles de sus variables proposicionales. Según el resultado final, las proposiciones se clasifican en:
+
 •	Tautología: Cuando la proposición es verdadera para todas las asignaciones posibles de valores.
+
 •	Contradicción: Cuando la proposición es siempre falsa en todos los casos de su tabla de verdad.
+
 •	Contingencia: Cuando la proposición puede ser tanto verdadera como falsa (una mezcla de ambos), dependiendo de los valores de las proposiciones que la integran.
+ 
 **Nota**: Quiero a dar a conocer que la primera vez que vi este tema mi cabeza voló por los cielos ya que no entendía nada, y me esforzaba mucho para no quedarme atrás, pero después de esa clase observe un tutorial y la verdad se me hizo muy sencillo a tal punto que me sabia las reglas al derecho y al revés, el principal problema no fue el maestro si no fui yo, debido a que tenia que pedir ayuda peo no lo hice.
+
+## 📊 Tablas de Verdad de Conectores Lógicos
+
+### 1. Negación (¬p)
+| p | ¬p |
+|:-:|:-:|
+| V | F |
+| F | V |
+
+---
+
+### 2. Conjunción (p ∧ q)
+| p | q | p ∧ q |
+|:-:|:-:|:-----:|
+| V | V | V |
+| V | F | F |
+| F | V | F |
+| F | F | F |
+
+---
+
+### 3. Disyunción (p ∨ q)
+| p | q | p ∨ q |
+|:-:|:-:|:-----:|
+| V | V | V |
+| V | F | V |
+| F | V | V |
+| F | F | F |
+
+---
+
+### 4. Condicional (p → q)
+| p | q | p → q |
+|:-:|:-:|:-----:|
+| V | V | V |
+| V | F | F |
+| F | V | V |
+| F | F | V |
+
+---
+
+### 5. Bicondicional (p ↔ q)
+| p | q | p ↔ q |
+|:-:|:-:|:-----:|
+| V | V | V |
+| V | F | F |
+| F | V | F |
+| F | F | V |
+
  
 </blockquote>
 </details>
