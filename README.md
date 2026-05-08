@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/035b87ae-785b-4541-90f0-8c6d19e1c94f" width="120" alt="Logo UNL">
 </p>
 
-<h1 align="center">Portafolio Digital: Teoría de la Programación</h1>
+<h1 align="center">Portafolio Digital: Matemáticas Discretas</h1>
 
 <p align="center">
   <a href="./CONTENIDO_.md">
