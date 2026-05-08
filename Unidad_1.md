@@ -16,8 +16,8 @@ Ejemplo: “El número 5 es impar” → Verdadero.
 <details>
 <summary><b>🔹 Tipos de proposiciones</b></summary>
 <blockquote>
-- **Simples:** No contienen conectores lógicos.  
-- **Compuestas:** Se forman mediante conectores como ∧, ∨, ¬, →, ↔.
+- Simples: No contienen conectores lógicos.  
+- Compuestas: Se forman mediante conectores como ∧, ∨, ¬, →, ↔.
 </blockquote>
 </details>
 
@@ -58,7 +58,7 @@ Ejemplo:
 ∴ Q (Modus Ponens)
 </blockquote>
 </details>
----
+
 
 ## 2. 📊 Ejercicios Resueltos (mínimo 5)
 Incluye:
