@@ -154,28 +154,12 @@ Incluye:
 ## 4. 🔍 Reflexión Personal
 Responde:
 
-- 🤔 ¿Qué fue lo más difícil de entender?  
+- 🤔 **¿Qué fue lo más difícil de entender?**
+ Desde mi
+  
 - 💡 ¿Qué tema comprendí mejor?  
 - 🚀 ¿Cómo puedo aplicar la lógica en mi carrera?  
 
 ---
-
-## 📌 Formato de Entrega
-- 📄 Documento digital (PDF o Word)  
-- 🎨 Portada (nombre, asignatura, docente, fecha)  
-- 📑 Índice  
-- 🗂️ Orden claro y legible  
-- 🔣 Uso correcto de simbología lógica  
-
----
-
-## 🧮 Criterios de Evaluación (10 puntos)
-
-| Criterio | Puntaje |
-|----------|---------|
-| 📖 Contenido teórico claro y completo | 2 pts |
-| 🧩 Desarrollo correcto de ejercicios | 3 pts |
-| 🌍 Aplicación práctica | 2 pts |
-| 🗂️ Organización y presentación | 2 pts |
-| 💭 Reflexión crítica | 1 pt |
+ 
 
