@@ -36,13 +36,7 @@ Q: “Hay sol”
 <summary><b>🔹 Explicación de tablas de verdad</b></summary>
 <blockquote>
 Las tablas de verdad muestran todas las combinaciones posibles de valores (V o F) para evaluar una proposición compuesta.  
-Ejemplo:  
-| P | Q | P ∧ Q |
-|:-:|:-:|:-:|
-| V | V | V |
-| V | F | F |
-| F | V | F |
-| F | F | F |
+ 
 </blockquote>
 </details>
 
