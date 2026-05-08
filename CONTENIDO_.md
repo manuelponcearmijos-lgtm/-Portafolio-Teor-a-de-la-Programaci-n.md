@@ -23,7 +23,7 @@ Este portafolio digital compila el progreso académico en la asignatura de **Mat
 * **Tablas de verdad:** Construcción y análisis de proposiciones.
 * **Compuertas lógicas:** Representación de operaciones booleanas.
 
-[![Acceder a Unidad 1](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_1-CLICK%20AQUÍ-0078D4?style=for-the-badge&logo=github&logoColor=white)](./Unidad_1.md)
+[![Acceder a Unidad 1](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_1-CLICK%20AQUÍ-0078D4?style=for-the-badge&logo=github&logoColor=white)](Unidad_1.md)
 </details>
 
 <details>
