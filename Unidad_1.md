@@ -21,9 +21,29 @@ Ejemplo: “El número 5 es impar” → Verdadero.
 <blockquote>
 
  Las proposiciones lógicas se clasifican principalmente en dos grandes tipos: simples y compuestas. Las simples expresan una sola idea sin conectores, mientras que las compuestas se forman al unir proposiciones simples mediante operadores lógicos como la conjunción (∧), disyunción (∨), negación (¬), condicional (→) y bicondicional (↔), parece complicada verdad, pero lo bueno es que existen juegos donde se pueden identificar y poner en practica esas proposiciones, lo cual uno puede aprender mucho, solo que hay que buscar las maneras.
-- Simples: No contienen conectores lógicos. 
-- Compuestas: Se forman mediante conectores como ∧, ∨, ¬, →, ↔.
-- 
+ 
+-Proposiciones Simples (Atómicas)
+Definición: Enunciados que expresan una única idea y no contienen conectores lógicos.
+Ejemplo:
+
+“La Tierra gira alrededor del Sol” → Verdadero.
+
+“2 + 2 = 5” → Falso.
+
+Proposiciones Compuestas (Moleculares)
+Definición: Se forman a partir de proposiciones simples unidas por conectores lógicos.
+
+Ejemplos:
+
+Conjunción (∧): “Hoy es lunes ∧ hace frío”.
+
+Disyunción (∨): “Voy al cine ∨ me quedo en casa”.
+
+Negación (¬): “¬(Está lloviendo)”.
+
+Condicional (→): “Si estudias → apruebas”.
+
+Bicondicional (↔): “Un número es par ↔ divisible entre 2”.
 </blockquote>
 </details>
 
@@ -63,8 +83,12 @@ Los conectores permiten unir proposiciones simples para formar expresiones más 
 
 <details>
 <summary><b>🔹 Explicación de tablas de verdad</b></summary>
-<blockquote>
-Las tablas de verdad muestran todas las combinaciones posibles de valores (V o F) para evaluar una proposición compuesta.  
+<blockquote> 
+ Una tabla de verdad es una descripción organizada de todos los posibles valores de verdad que puede adoptar una proposición compuesta, considerando todas las combinaciones posibles de sus variables proposicionales. Según el resultado final, las proposiciones se clasifican en:
+•	Tautología: Cuando la proposición es verdadera para todas las asignaciones posibles de valores.
+•	Contradicción: Cuando la proposición es siempre falsa en todos los casos de su tabla de verdad.
+•	Contingencia: Cuando la proposición puede ser tanto verdadera como falsa (una mezcla de ambos), dependiendo de los valores de las proposiciones que la integran.
+**Nota**: Quiero a dar a conocer que la primera vez que vi este tema mi cabeza voló por los cielos ya que no entendía nada, y me esforzaba mucho para no quedarme atrás, pero después de esa clase observe un tutorial y la verdad se me hizo muy sencillo a tal punto que me sabia las reglas al derecho y al revés, el principal problema no fue el maestro si no fui yo, debido a que tenia que pedir ayuda peo no lo hice.
  
 </blockquote>
 </details>
@@ -72,8 +96,24 @@ Las tablas de verdad muestran todas las combinaciones posibles de valores (V o F
 <details>
 <summary><b>🔹 Principales leyes lógicas</b></summary>
 <blockquote>
-Incluyen leyes como la conmutativa, asociativa, distributiva, doble negación y de Morgan.  
-Ejemplo: ¬(P ∧ Q) ≡ (¬P ∨ ¬Q)
+ También llamadas "Leyes de las proposiciones" o "Teoremas", se utilizan para simplificar expresiones complejas. Las más destacadas son:
+
+ ## 📑 Principales Leyes Lógicas
+
+| Ley | Expresión | Ejemplo |
+|-----|-----------|---------|
+| **Identidad** | p ∧ V = p ; p ∨ F = p | “Estudio ∧ verdadero = estudio” |
+| **Dominio (Anulación)** | p ∨ V = V ; p ∧ F = F | “Estudio ∨ verdadero = verdadero” |
+| **Idempotencia** | p ∨ p = p ; p ∧ p = p | “Estudio ∨ estudio = estudio” |
+| **Doble Negación** | ¬(¬p) = p | “No es falso que estudio = estudio” |
+| **Conmutativa** | p ∨ q = q ∨ p ; p ∧ q = q ∧ p | “Estudio ∨ descanso = descanso ∨ estudio” |
+| **Asociativa** | (p ∨ q) ∨ r = p ∨ (q ∨ r) | “(Estudio ∨ descanso) ∨ juego = Estudio ∨ (descanso ∨ juego)” |
+| **Distributiva** | p ∨ (q ∧ r) = (p ∨ q) ∧ (p ∨ r) | “Estudio ∨ (descanso ∧ juego)” |
+| **De Morgan** | ¬(p ∧ q) = ¬p ∨ ¬q ; ¬(p ∨ q) = ¬p ∧ ¬q | “No (estudio ∧ descanso) = No estudio ∨ no descanso” |
+| **Absorción** | p ∨ (p ∧ q) = p ; p ∧ (p ∨ q) = p | “Estudio ∨ (estudio ∧ descanso) = estudio” |
+| **Complemento** | p ∨ ¬p = V ; p ∧ ¬p = F | “Estudio ∨ no estudio = verdadero” |
+
+
 </blockquote>
 </details>
 
