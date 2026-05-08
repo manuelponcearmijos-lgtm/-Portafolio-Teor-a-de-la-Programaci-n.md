@@ -21,6 +21,7 @@
 [📂 Acceder al contenido del portafolio](./CONTENIDO_.md)
 
 ---
+ 
 
 <img src="https://raw.githubusercontent.com/alisonramivilla-arch/Portafolio-Digital-Teoria-De-La-Programacion/main/imagenes/matematicas_discretas.png" width="600" alt="Portada Matemáticas Discretas">
 
@@ -28,7 +29,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/alisonramivilla-arch/Portafolio-Digital-Teoria-De-La-Programacion/main/imagenes/barra_datos.png" width="800" alt="Datos académicos">
+<img src= https://github.com/user-attachments/assets/f6dc7664-5578-47af-a76e-921d590aacbb" width="800" alt="Datos académicos">
 
 ---
 
