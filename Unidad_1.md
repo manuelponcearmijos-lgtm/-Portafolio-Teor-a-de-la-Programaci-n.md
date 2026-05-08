@@ -5,7 +5,7 @@
 ## 1. 📖 Resumen Teórico
 > ✍️ Elaborado por el estudiante
 
-- 🔹 Definición de proposición  
+- 🔹 Definición de proposición
 - 🔹 Tipos de proposiciones  
 - 🔹 Conectores lógicos (**∧, ∨, ¬, →, ↔**)  
 - 🔹 Explicación de tablas de verdad  
