@@ -8,7 +8,10 @@
 <details>
 <summary><b>🔹 Definición de proposición</b></summary>
 <blockquote>
-Una proposición es una expresión que puede ser verdadera o falsa, pero no ambas.  
+ Una proposición lógica es una afirmación o frase que expresa una idea con un valor de verdad definido: puede ser verdadera o falsa, pero nunca ambas al mismo tiempo. Son fundamentales en la lógica matemática porque permiten analizar argumentos, construir tablas de verdad y aplicar reglas de inferencia. En la vida cotidiana también aparecen constantemente, aunque muchas veces no se reconozcan como tales; por ejemplo, cuando alguien dice “Hoy llueve” está formulando una proposición, ya que esa frase puede evaluarse como verdadera o falsa según la realidad.
+
+ **Definición**:Una proposición lógica se define como un enunciado o oración que tiene la propiedad de ser falsa (0) o verdadera (1), pero que no puede poseer ambos valores de verdad de manera simultánea. Se considera el elemento fundamental y básico de la lógica matemática 
+
 Ejemplo: “El número 5 es impar” → Verdadero.
 </blockquote>
 </details>
