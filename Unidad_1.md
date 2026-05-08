@@ -1,17 +1,69 @@
 # 🧩 Contenido del Portafolio – Matemáticas Discretas
 
 ---
+ <h2>📘 1. Resumen Teórico</h2>
 
-## 1. 📖 Resumen Teórico
-> ✍️ Elaborado por el estudiante
+<p>✍️ <i>Elaborado por el estudiante</i></p>
 
-- 🔹 Definición de proposición
-- 🔹 Tipos de proposiciones  
-- 🔹 Conectores lógicos (**∧, ∨, ¬, →, ↔**)  
-- 🔹 Explicación de tablas de verdad  
-- 🔹 Principales leyes lógicas  
-- 🔹 Reglas de inferencia  
+<details>
+<summary><b>🔹 Definición de proposición</b></summary>
+<blockquote>
+Una proposición es una expresión que puede ser verdadera o falsa, pero no ambas.  
+Ejemplo: “El número 5 es impar” → Verdadero.
+</blockquote>
+</details>
 
+<details>
+<summary><b>🔹 Tipos de proposiciones</b></summary>
+<blockquote>
+- **Simples:** No contienen conectores lógicos.  
+- **Compuestas:** Se forman mediante conectores como ∧, ∨, ¬, →, ↔.
+</blockquote>
+</details>
+
+<details>
+<summary><b>🔹 Conectores lógicos (∧, ∨, ¬, →, ↔)</b></summary>
+<blockquote>
+Permiten combinar proposiciones para formar expresiones más complejas.  
+Ejemplo:  
+P: “Llueve”  
+Q: “Hay sol”  
+→ P ∧ Q: “Llueve y hay sol”.
+</blockquote>
+</details>
+
+<details>
+<summary><b>🔹 Explicación de tablas de verdad</b></summary>
+<blockquote>
+Las tablas de verdad muestran todas las combinaciones posibles de valores (V o F) para evaluar una proposición compuesta.  
+Ejemplo:  
+| P | Q | P ∧ Q |
+|:-:|:-:|:-:|
+| V | V | V |
+| V | F | F |
+| F | V | F |
+| F | F | F |
+</blockquote>
+</details>
+
+<details>
+<summary><b>🔹 Principales leyes lógicas</b></summary>
+<blockquote>
+Incluyen leyes como la **conmutativa**, **asociativa**, **distributiva**, **doble negación** y **De Morgan**.  
+Ejemplo: ¬(P ∧ Q) ≡ (¬P ∨ ¬Q)
+</blockquote>
+</details>
+
+<details>
+<summary><b>🔹 Reglas de inferencia</b></summary>
+<blockquote>
+Son principios que permiten deducir conclusiones válidas a partir de premisas.  
+Ejemplo:  
+1️⃣ P → Q  
+2️⃣ P  
+∴ Q (Modus Ponens)
+</blockquote>
+</details>
 ---
 
 ## 2. 📊 Ejercicios Resueltos (mínimo 5)
