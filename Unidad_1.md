@@ -92,7 +92,7 @@ Los conectores permiten unir proposiciones simples para formar expresiones más 
 
 •	Contingencia: Cuando la proposición puede ser tanto verdadera como falsa (una mezcla de ambos), dependiendo de los valores de las proposiciones que la integran.
  
-**Nota**: Quiero a dar a conocer que la primera vez que vi este tema mi cabeza voló por los cielos ya que no entendía nada, y me esforzaba mucho para no quedarme atrás, pero después de esa clase observe un tutorial y la verdad se me hizo muy sencillo a tal punto que me sabia las reglas al derecho y al revés, el principal problema no fue el maestro si no fui yo, debido a que tenia que pedir ayuda peo no lo hice.
+**Nota**: Quiero a dar a conocer que la primera vez que vi este tema mi cabeza voló por los cielos ya que no entendía nada, y me esforzaba mucho para no quedarme atrás, pero después de esa clase observe un tutorial y la verdad se me hizo muy sencillo a tal punto que me sabia las reglas al derecho y al revés, el principal problema no fue el maestro si no fui yo, debido a que tenia que pedir ayuda pero no lo hice.
 
 ## 📊 Tablas de Verdad de Conectores Lógicos
 
@@ -208,10 +208,13 @@ Incluye:
 Responde:
 
 - 🤔 **¿Qué fue lo más difícil de entender?**
- Desde mi
+Desde mi perspectiva, lo más complicado ha sido enfrentar el miedo a preguntar cuando no entiendo algún tema, pues siento vergüenza de que otros puedan burlarse de mí por no comprender. Aunque la teoría me resulta sencilla y accesible, la práctica se vuelve más difícil porque aún no logro desarrollar la lógica necesaria para resolver los ejercicios. En particular, las tablas de verdad me generaron confusión al inicio, ya que desconocía cómo aplicar sus reglas, y las reglas de inferencia se convirtieron en un verdadero reto al ser un mundo completamente nuevo para mí. Además, las leyes lógicas me parecieron abrumadoras, pues al resolverlas existen múltiples posibilidades que pueden llevar fácilmente a errores y dificultar alcanzar el resultado esperado. Sin embargo, reconozco que estas dificultades forman parte del proceso de aprendizaje y me motivan a seguir practicando para fortalecer mi razonamiento lógico y superar mis temores.
   
-- 💡 ¿Qué tema comprendí mejor?  
-- 🚀 ¿Cómo puedo aplicar la lógica en mi carrera?  
+- 💡 **¿Qué tema comprendí mejor?**
+Lo que comprendí con mayor facilidad fueron las tablas de verdad, ya que me permitieron visualizar de manera clara cómo se comportan las proposiciones según los diferentes conectores lógicos. Al organizar los valores de verdad en filas y columnas, pude identificar rápidamente cuándo una expresión resulta verdadera, falsa, una tautología, contradicción o contingencia. Este método me pareció muy práctico porque convierte la teoría en un esquema ordenado y fácil de seguir, lo que me ayudó a fortalecer mi razonamiento lógico y a tener más seguridad al resolver ejercicios; incluso cuando resolvimos la lección de dos ejercicios, lo que realice primero fue la tabla de verdad ya que me tarde un minuto, no se me complico debido a que ese tema es muy sencillo. 
+  
+- 🚀 **¿Cómo puedo aplicar la lógica en mi carrera?**
+En mi carrera de Ingeniería en Computación la lógica se convierte en una herramienta esencial, porque me permite estructurar algoritmos de manera ordenada, diseñar circuitos digitales a partir de tablas de verdad y aplicar reglas de inferencia para validar procesos. También la utilizo en programación, ya que los condicionales y bucles dependen directamente de razonamientos lógicos, y en bases de datos, donde los operadores lógicos ayudan a filtrar información con precisión. Además, la lógica es clave en áreas como inteligencia artificial y seguridad informática, pues garantiza que los sistemas funcionen de forma coherente y confiable. En conclusión, la lógica no es solo teoría, sino el puente que conecta mi razonamiento con la máquina y me ayuda a transformar ideas en soluciones prácticas.
 
 ---
  
