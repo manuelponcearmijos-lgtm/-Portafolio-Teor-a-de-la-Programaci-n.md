@@ -173,11 +173,24 @@ Los conectores permiten unir proposiciones simples para formar expresiones más 
 <details>
 <summary><b>🔹 Reglas de inferencia</b></summary>
 <blockquote>
-Son principios que permiten deducir conclusiones válidas a partir de premisas.  
-Ejemplo:  
-1️⃣ P → Q  
-2️⃣ P  
-∴ Q (Modus Ponens)
+Las reglas de inferencia son principios que permiten obtener conclusiones válidas a partir de premisas dadas, garantizando que el razonamiento sea correcto y coherente. 
+
+ ## 📑 Reglas de Inferencia
+
+| Regla | Forma | Ejemplo |
+|-------|-------|---------|
+| **Modus Ponendo Ponens** | p → q ; p ; ∴ q | “Si estudio → apruebo; estudio; ∴ apruebo” |
+| **Modus Tollendo Tollens** | p → q ; ¬q ; ∴ ¬p | “Si estudio → apruebo; no apruebo; ∴ no estudié” |
+| **Silogismo Hipotético** | p → q ; q → r ; ∴ p → r | “Si estudio → apruebo; si apruebo → me gradúo; ∴ si estudio → me gradúo” |
+| **Modus Tollendo Ponens** | p ∨ q ; ¬p ; ∴ q | “Estudio ∨ descanso; no estudio; ∴ descanso” |
+| **Dilema Constructivo** | (p → q) ∧ (r → s) ; p ∨ r ; ∴ q ∨ s | “Si estudio → apruebo; si descanso → me relajo; estudio ∨ descanso; ∴ apruebo ∨ me relajo” |
+| **Dilema Destructivo** | (p → q) ∧ (r → s) ; ¬q ∨ ¬s ; ∴ ¬p ∨ ¬r | “Si estudio → apruebo; si descanso → me relajo; no apruebo ∨ no me relajo; ∴ no estudio ∨ no descanso” |
+| **Simplificación** | p ∧ q ; ∴ p | “Estudio ∧ descanso; ∴ estudio” |
+| **Conjunción** | p ; q ; ∴ p ∧ q | “Estudio; descanso; ∴ estudio ∧ descanso” |
+| **Adición** | p ; ∴ p ∨ q | “Estudio; ∴ estudio ∨ descanso” |
+| **Conmutación** | p ∨ q ; ∴ q ∨ p | “Estudio ∨ descanso; ∴ descanso ∨ estudio” |
+| **Ley de Absorción** | p → q ; ∴ p → (p ∧ q) | “Si estudio → apruebo; ∴ estudio → (estudio ∧ apruebo)” |
+
 </blockquote>
 </details>
 
