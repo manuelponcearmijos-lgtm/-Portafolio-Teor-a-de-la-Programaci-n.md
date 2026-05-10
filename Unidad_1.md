@@ -364,15 +364,52 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 5. Determinar validez del a argumento.  
 
 
- <details>
-  <summary><b>🧠 Ejercicio Aplicado (Caso Real)</b></summary>
+ ## 🧠 Ejercicio Aplicado (Caso Real)
 
-  - 🌍 Plantear un problema cotidiano  
-  - 💬 Definir proposiciones  
-  - 🔣 Expresar simbólicamente  
-  - ⚙️ Analizar con lógica proposicional  
-  - 🧾 Concluir resultados  
+<details open>
+  <summary><b>✨ Resolución paso a paso</b></summary>
 
+  <div style="background-color:#1e1e1e; padding:14px; border-radius:8px; color:#E0E0E0;">
+
+  **1. 🌍 Plantear un problema cotidiano**  
+  Cada mañana decides cómo llegar al campus universitario.  
+  - Si el clima es favorable y tienes tiempo, prefieres ir en bicicleta 🚲.  
+  - Si el clima no ayuda o estás apurado, tomas el bus 🚌.  
+  Este problema refleja una decisión lógica basada en condiciones externas.
+
+  **2. 💬 Definir proposiciones**  
+  - \(p\): Está soleado  
+  - \(q\): Tengo tiempo suficiente  
+  - \(r\): Voy en bicicleta  
+  - \(s\): Voy en bus  
+
+  **3. 🔣 Expresar simbólicamente**  
+  - “Si está soleado y tengo tiempo, voy en bicicleta.” → \((p \land q) \rightarrow r\)  
+  - “Si no está soleado o no tengo tiempo, voy en bus.” → \((\lnot p \lor \lnot q) \rightarrow s\)  
+  - Además, se cumple que **no puedo ir en bicicleta y en bus al mismo tiempo**: \(\lnot (r \land s)\)
+
+  **4. ⚙️ Analizar con lógica proposicional**  
+  - Caso 1: \(p = V\), \(q = V\) → \(r = V\), \(s = F\).  
+  - Caso 2: \(p = F\), \(q = V\) → \(s = V\), \(r = F\).  
+  - Caso 3: \(p = V\), \(q = F\) → \(s = V\), \(r = F\).  
+  - Caso 4: \(p = F\), \(q = F\) → \(s = V\), \(r = F\).  
+
+  **5. 🧾 Concluir resultados**  
+  El sistema lógico garantiza que **solo una opción de transporte** se cumple cada día:  
+  - 🚲 Bicicleta si hay sol y tiempo.  
+  - 🚌 Bus si falta cualquiera de esas condiciones.  
+  - Nunca se cumplen ambas a la vez, lo que asegura consistencia en la decisión.
+
+  **6. 📊 Tabla de verdad resumida**
+
+  | p (sol) | q (tiempo) | r (bicicleta) | s (bus) |
+  |---------|------------|---------------|---------|
+  | V       | V          | V             | F       |
+  | F       | V          | F             | V       |
+  | V       | F          | F             | V       |
+  | F       | F          | F             | V       |
+
+  </div>
 </details>
 
 ---
