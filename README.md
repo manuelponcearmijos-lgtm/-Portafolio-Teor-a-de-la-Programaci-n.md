@@ -22,7 +22,7 @@
 
 ## 👤 Datos del Estudiante
 - **Nombre:** <span style="color:#0078D4">Manuel Alejandro Ponce Armijos</span>  
-- **Docente:** Ing. Luis Darío Sinche Cueva  
+- **Docente:** Ing. Mario Enrique Cueva Hurtado
 - **Ciclo:** 1er Ciclo "A"  
 - **Período:** Abril – Agosto 2026  
 
