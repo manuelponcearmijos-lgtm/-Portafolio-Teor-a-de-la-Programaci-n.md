@@ -383,10 +383,13 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
   - \(r\): Voy en bicicleta  
   - \(s\): Voy en bus  
 
-  **3. 🔣 Expresar simbólicamente**  
-  - “Si está soleado y tengo tiempo, voy en bicicleta.” → \((p \land q) \rightarrow r\)  
-  - “Si no está soleado o no tengo tiempo, voy en bus.” → \((\lnot p \lor \lnot q) \rightarrow s\)  
-  - Además, se cumple que **no puedo ir en bicicleta y en bus al mismo tiempo**: \(\lnot (r \land s)\)
+ ## 🔣 Expresiones Simbólicas
+
+| 📝 Enunciado | 🔢 Fórmula Lógica |
+|--------------|------------------|
+| Si está soleado y tengo tiempo, voy en bicicleta. | (p ∧ q) → r |
+| Si no está soleado o no tengo tiempo, voy en bus. | (¬p ∨ ¬q) → s |
+| No puedo ir en bicicleta y en bus al mismo tiempo. | ¬(r ∧ s) |
 
   **4. ⚙️ Analizar con lógica proposicional**  
   - Caso 1: \(p = V\), \(q = V\) → \(r = V\), \(s = F\).  
@@ -431,4 +434,13 @@ En mi carrera de Ingeniería en Computación la lógica se convierte en una herr
 
 ---
  
+## 📁 Anexos: Aprendizaje Práctico Experimental (APE)
+
+A continuación se presentan los enlaces a las actividades prácticas desarrolladas.  
+Todos los archivos se encuentran alojados en el repositorio de **Google Drive** de la asignatura:
+
+| 🧩 **Actividad** | 📘 **Recurso** | 🔗 **Enlace Directo** |
+|------------------|----------------|------------------------|
+| 📂 Carpeta General | Todos los APE (1 al 6) | [📁 Acceder a Drive](https://drive.google.com/drive/folders/1QxW70n9aSkWdld3s3loON6Rw6OObadYJ?usp=drive_link) |
+
 
