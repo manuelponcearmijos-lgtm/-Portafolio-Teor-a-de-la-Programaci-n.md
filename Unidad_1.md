@@ -197,7 +197,7 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 
  ## 📘 Ejercicios Resueltos (mínimo 5)
 
-<details>
+ <details open>
   <summary><b>🔣 Ejercicio 1: Traducción de lenguaje natural a simbólico</b></summary>
    
   🏠 Ejercicio 1: Clima
