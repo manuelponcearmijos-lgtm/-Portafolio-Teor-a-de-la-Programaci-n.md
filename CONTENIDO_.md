@@ -64,11 +64,30 @@ Este portafolio digital compila el progreso académico en la asignatura de **Mat
 <br>
 
 [1] P. Villalobos, *Fundamentos de Matemáticas Discretas*, México: McGraw-Hill, 2020.  
+
 [2] M. L. Ortiz, *Lógica y Computación*, Bogotá: Ediciones de la U, 2019.  
+
 [3] Free Software Foundation, *Manual de referencia de GCC*, 2024. Disponible en: https://gcc.gnu.org/onlinedocs/  
 </details>
 
+[4] R. Dorf y J. Svoboda, Introduction to Electric Circuits, 9th ed., Wiley, Hoboken, 2021.
+
+[5] F. J. Sánchez y G. Mata, “Aplicación didáctica de las leyes de Kirchhoff en la enseñanza de circuitos básicos,” Revista Educación en Ingeniería, vol. 16, no. 2, pp. 45–52, 2022.
+
+[6] IEEE, IEEE Standard for Electrical and Electronic Diagrams (Including Logic Diagrams), IEEE Std 91-2021, New York, 2021.
+
 ---
+## 🤖 Declaración de Uso de IA Generativa
+
+Durante la elaboración de este portafolio digital se emplearon herramientas de **Inteligencia Artificial Generativa** (como Gemini y ChatGPT) bajo criterios de transparencia y ética académica:
+
+- **🎯 Finalidad:** La IA se utilizó como apoyo en la estructuración de documentos en formato Markdown, mejora del diseño visual, corrección de estilo y generación de ejemplos de código.  
+- **🧠 Supervisión Humana:** Todo el contenido lógico, reflexiones éticas y ejercicios prácticos fueron revisados y validados manualmente por el autor, garantizando autenticidad en el razonamiento.  
+- **📚 Ética Académica:** La IA no sustituyó el análisis crítico ni la resolución de problemas; únicamente facilitó la presentación y organización del material.  
+- **⚖️ Limitaciones:** Se evitó el uso de la IA para producir respuestas automáticas sin verificación, reconociendo que puede generar errores o información incompleta.  
+- **🔒 Responsabilidad:** El estudiante asume plena responsabilidad sobre la veracidad, coherencia y pertinencia de los contenidos presentados.  
+- **🌐 Transparencia:** Se declara explícitamente el uso de IA para cumplir con los principios de honestidad académica y evitar plagio.  
+- **📖 Referencias:** Las fuentes bibliográficas incluidas siguen el formato IEEE, garantizando respaldo académico y confiabilidad en la información.
 
 <p align="center">🌍 <i>Loja – Ecuador, 2026</i></p>
 
