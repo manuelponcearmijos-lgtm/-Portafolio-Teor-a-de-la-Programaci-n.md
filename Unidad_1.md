@@ -228,11 +228,17 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 ---
  
 ### 📊 Ejercicio 2: Tablas de verdad
+
 ![Ejercicio2a](https://github.com/user-attachments/assets/8ce4e2f2-f3dd-49f6-ac99-e32306125f49)
+
 ![Ejercicio2b](https://github.com/user-attachments/assets/c6739bb3-4b5f-4e21-b54e-e0702848c8cc)
-![Ejercicio2c](https://github.com/user-attachments/assets/1f5316e9-5231-4e38-9ee9-4f2c7fad61a3)
-![Ejercicio2d](https://github.com/user-attachments/assets/3d0adb08-0b09-401b-9358-780520c6fc84)
-![Ejercicio2e](https://github.com/user-attachments/assets/4a0662f7-f530-4e68-a632-3e6df103e712)
+ 
+![Ejercicio2c](https://github.com/user-attachments/assets/d7981ba9-280b-4b73-8e45-01325cdcb9c6)
+ 
+![Ejercicio2d](https://github.com/user-attachments/assets/95862d4d-b3da-4a9c-987e-1b2779575f17)
+ 
+![Ejercicio2e](https://github.com/user-attachments/assets/4f4c3ade-19a8-4941-9e43-ee05c38713dd)
+
 
 **Procedimiento paso a paso:**
 1. Definir las proposiciones.  
@@ -244,11 +250,16 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 ---
 
 ### 🧮 Ejercicio 3: Tautologías y contradicciones
-![Ejercicio3a](./Evidencias/ejercicio3a.png)
-![Ejercicio3b](./Evidencias/ejercicio3b.png)
-![Ejercicio3c](./Evidencias/ejercicio3c.png)
-![Ejercicio3d](./Evidencias/ejercicio3d.png)
-![Ejercicio3e](./Evidencias/ejercicio3e.png)
+ 
+![Ejercicio3a](https://github.com/user-attachments/assets/ffab05a6-8560-4432-8aa2-2649844dcec9)
+ 
+![Ejercicio3b](https://github.com/user-attachments/assets/01514f70-ca5c-4f95-b34a-b1b3bcd87812)
+
+![Ejercicio2c](https://github.com/user-attachments/assets/1f5316e9-5231-4e38-9ee9-4f2c7fad61a3)
+
+![Ejercicio2d](https://github.com/user-attachments/assets/3d0adb08-0b09-401b-9358-780520c6fc84)
+
+![Ejercicio2e](https://github.com/user-attachments/assets/4a0662f7-f530-4e68-a632-3e6df103e712) 
 
 **Procedimiento paso a paso:**
 1. Seleccionar la fórmula.  
