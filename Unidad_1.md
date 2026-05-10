@@ -226,13 +226,13 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 5. Verificar la coherencia del enunciado.  
 
 ---
-
+ 
 ### 📊 Ejercicio 2: Tablas de verdad
-![Ejercicio2a](./Evidencias/ejercicio2a.png)
-![Ejercicio2b](./Evidencias/ejercicio2b.png)
-![Ejercicio2c](./Evidencias/ejercicio2c.png)
-![Ejercicio2d](./Evidencias/ejercicio2d.png)
-![Ejercicio2e](./Evidencias/ejercicio2e.png)
+![Ejercicio2a](https://github.com/user-attachments/assets/8ce4e2f2-f3dd-49f6-ac99-e32306125f49)
+![Ejercicio2b](https://github.com/user-attachments/assets/c6739bb3-4b5f-4e21-b54e-e0702848c8cc)
+![Ejercicio2c](https://github.com/user-attachments/assets/1f5316e9-5231-4e38-9ee9-4f2c7fad61a3)
+![Ejercicio2d](https://github.com/user-attachments/assets/3d0adb08-0b09-401b-9358-780520c6fc84)
+![Ejercicio2e](https://github.com/user-attachments/assets/4a0662f7-f530-4e68-a632-3e6df103e712)
 
 **Procedimiento paso a paso:**
 1. Definir las proposiciones.  
