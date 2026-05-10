@@ -364,12 +364,16 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 5. Determinar validez del a argumento.  
 
 
-## 3. 🧠 Ejercicio Aplicado (Caso Real)
-- 🌍 Plantear un problema cotidiano  
-- 🔹 Definir proposiciones  
-- 🔹 Expresar simbólicamente  
-- 🔹 Analizar con lógica proposicional  
-- 🔹 Concluir resultados  
+ <details>
+  <summary><b>🧠 Ejercicio Aplicado (Caso Real)</b></summary>
+
+  - 🌍 Plantear un problema cotidiano  
+  - 💬 Definir proposiciones  
+  - 🔣 Expresar simbólicamente  
+  - ⚙️ Analizar con lógica proposicional  
+  - 🧾 Concluir resultados  
+
+</details>
 
 ---
 
