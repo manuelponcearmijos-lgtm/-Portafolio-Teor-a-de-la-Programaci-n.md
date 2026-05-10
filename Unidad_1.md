@@ -194,13 +194,11 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 </blockquote>
 </details>
 
+ ## 📘 Ejercicios Resueltos (mínimo 5)
 
- ### 📘 Ejercicios Resueltos (mínimo 5)
-
- <details open>
-  <summary><b>🔣 Ejercicio 1: Traducción de lenguaje natural a simbólico</b></summary>
-   
-  🏠 Ejercicio 1: Clima
+### 🔣 Ejercicio 1: Traducción de lenguaje natural a simbólico
+ 
+ 🏠 Ejercicio 1: Clima
   
   ![Ejercicio 1](https://github.com/user-attachments/assets/4f85d261-6cc5-4a30-b69d-42c9b536c7ce)
  
@@ -220,51 +218,77 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
   
   ![Ejercicio 5](https://github.com/user-attachments/assets/9ac616e0-6973-4df6-8fd9-4ba11c9c75db )
 
- 
-<details>
-  <summary><b>📊 Ejercicio 2: Construcción de tablas de verdad</b></summary>
+**Procedimiento paso a paso:**
+1. Identificar las proposiciones simples.  
+2. Asignar letras a cada proposición.  
+3. Determinar los conectores lógicos adecuados.  
+4. Escribir la fórmula simbólica.  
+5. Verificar la coherencia del enunciado.  
 
-  ![Ejercicio 2](./Evidencias/ejercicio2.png)
-
-  **Procedimiento paso a paso:**
-  1. ...
-  2. ...
-  3. ...
-</details>
-
-<details>
-  <summary><b>🧮 Ejercicio 3: Identificación de tautologías, contradicciones y contingencias</b></summary>
-
-  ![Ejercicio 3](./Evidencias/ejercicio3.png)
-
-  **Procedimiento paso a paso:**
-  1. ...
-  2. ...
-  3. ...
-</details>
-
-<details>
-  <summary><b>🧷 Ejercicio 4: Aplicación de leyes proposicionales</b></summary>
-
-  ![Ejercicio 4](./Evidencias/ejercicio4.png)
-
-  **Procedimiento paso a paso:**
-  1. ...
-  2. ...
-  3. ...
-</details>
-
-<details>
-  <summary><b>✅ Ejercicio 5: Validación de argumentos</b></summary>
-
-  ![Ejercicio 5](./Evidencias/ejercicio5.png)
-
-  **Procedimiento paso a paso:**
-  1. ...
-  2. ...
-  3. ...
-</details>
 ---
+
+### 📊 Ejercicio 2: Tablas de verdad
+![Ejercicio2a](./Evidencias/ejercicio2a.png)
+![Ejercicio2b](./Evidencias/ejercicio2b.png)
+![Ejercicio2c](./Evidencias/ejercicio2c.png)
+![Ejercicio2d](./Evidencias/ejercicio2d.png)
+![Ejercicio2e](./Evidencias/ejercicio2e.png)
+
+**Procedimiento paso a paso:**
+1. Definir las proposiciones.  
+2. Construir la tabla con todas las combinaciones.  
+3. Evaluar la fórmula en cada fila.  
+4. Identificar patrones de verdad.  
+5. Concluir si es tautología, contradicción o contingencia.  
+
+---
+
+### 🧮 Ejercicio 3: Tautologías y contradicciones
+![Ejercicio3a](./Evidencias/ejercicio3a.png)
+![Ejercicio3b](./Evidencias/ejercicio3b.png)
+![Ejercicio3c](./Evidencias/ejercicio3c.png)
+![Ejercicio3d](./Evidencias/ejercicio3d.png)
+![Ejercicio3e](./Evidencias/ejercicio3e.png)
+
+**Procedimiento paso a paso:**
+1. Seleccionar la fórmula.  
+2. Construir su tabla de verdad.  
+3. Revisar si siempre es verdadera o falsa.  
+4. Clasificar como tautología o contradicción.  
+5. Justificar la conclusión.  
+
+---
+
+### 🧷 Ejercicio 4: Leyes proposicionales
+![Ejercicio4a](./Evidencias/ejercicio4a.png)
+![Ejercicio4b](./Evidencias/ejercicio4b.png)
+![Ejercicio4c](./Evidencias/ejercicio4c.png)
+![Ejercicio4d](./Evidencias/ejercicio4d.png)
+![Ejercicio4e](./Evidencias/ejercicio4e.png)
+
+**Procedimiento paso a paso:**
+1. Identificar la fórmula original.  
+2. Aplicar la ley lógica correspondiente.  
+3. Simplificar paso a paso.  
+4. Comparar con la fórmula inicial.  
+5. Confirmar equivalencia.  
+
+---
+
+### ✅ Ejercicio 5: Validación de argumentos
+![Ejercicio5a](./Evidencias/ejercicio5a.png)
+![Ejercicio5b](./Evidencias/ejercicio5b.png)
+![Ejercicio5c](./Evidencias/ejercicio5c.png)
+![Ejercicio5d](./Evidencias/ejercicio5d.png)
+![Ejercicio5e](./Evidencias/ejercicio5e.png)
+
+**Procedimiento paso a paso:**
+1. Escribir las premisas.  
+2. Representarlas simbólicamente.  
+3. Construir la tabla de verdad.  
+4. Evaluar si la conclusión se cumple siempre que las premisas sean verdaderas.  
+5. Determinar validez del argumento.  
+
 
 ## 3. 🧠 Ejercicio Aplicado (Caso Real)
 - 🌍 Plantear un problema cotidiano  
