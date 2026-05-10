@@ -195,16 +195,63 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
 </details>
 
 
-## 2. 📊 Ejercicios Resueltos (mínimo 5)
-Incluye:
+ ## 📘 Ejercicios Resueltos (mínimo 5)
 
-- ✒️ Traducción de lenguaje natural a simbólico  
-- 📐 Construcción de tablas de verdad  
-- 🧮 Identificación de tautologías, contradicciones y contingencias  
-- 🔧 Aplicación de leyes proposicionales  
-- ✅ Validación de argumentos  
+<details>
+  <summary><b>🔣 Ejercicio 1: Traducción de lenguaje natural a simbólico</b></summary>
 
-👉 Cada ejercicio debe mostrar **procedimiento paso a paso**.
+  ![Ejercicio 1](./Evidencias/ejercicio1.png)
+
+  **Procedimiento paso a paso:**
+  1. ...
+  2. ...
+  3. ...
+</details>
+
+<details>
+  <summary><b>📊 Ejercicio 2: Construcción de tablas de verdad</b></summary>
+
+  ![Ejercicio 2](./Evidencias/ejercicio2.png)
+
+  **Procedimiento paso a paso:**
+  1. ...
+  2. ...
+  3. ...
+</details>
+
+<details>
+  <summary><b>🧮 Ejercicio 3: Identificación de tautologías, contradicciones y contingencias</b></summary>
+
+  ![Ejercicio 3](./Evidencias/ejercicio3.png)
+
+  **Procedimiento paso a paso:**
+  1. ...
+  2. ...
+  3. ...
+</details>
+
+<details>
+  <summary><b>🧷 Ejercicio 4: Aplicación de leyes proposicionales</b></summary>
+
+  ![Ejercicio 4](./Evidencias/ejercicio4.png)
+
+  **Procedimiento paso a paso:**
+  1. ...
+  2. ...
+  3. ...
+</details>
+
+<details>
+  <summary><b>✅ Ejercicio 5: Validación de argumentos</b></summary>
+
+  ![Ejercicio 5](./Evidencias/ejercicio5.png)
+
+  **Procedimiento paso a paso:**
+  1. ...
+  2. ...
+  3. ...
+</details>
+
 
 ---
 
