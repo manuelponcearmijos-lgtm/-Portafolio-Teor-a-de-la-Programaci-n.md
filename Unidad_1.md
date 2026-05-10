@@ -201,18 +201,23 @@ Las reglas de inferencia son principios que permiten obtener conclusiones válid
   <summary><b>🔣 Ejercicio 1: Traducción de lenguaje natural a simbólico</b></summary>
    
   🏠 Ejercicio 1: Clima
+  
   ![Ejercicio 1](https://github.com/user-attachments/assets/4f85d261-6cc5-4a30-b69d-42c9b536c7ce)
  
   📚 Ejercicio 2: Estudios
+  
   ![Ejercicio 2](https://github.com/user-attachments/assets/e946c52b-9820-44ae-9848-c48a72a5b508 )
 
   🚗 Ejercicio 3: Transporte
+  
   ![Ejercicio 3](https://github.com/user-attachments/assets/6b08e8cb-5c00-4536-b095-ee66c0126118)
   
   💻 Ejercicio 4: Tecnología
+  
   ![Ejercicio 4](https://github.com/user-attachments/assets/7b3d08a0-e07c-4155-962b-2fbfe51c0928)
 
   🕒 Ejercicio 5: Rutina diaria
+  
   ![Ejercicio 5](https://github.com/user-attachments/assets/9ac616e0-6973-4df6-8fd9-4ba11c9c75db )
 
  
